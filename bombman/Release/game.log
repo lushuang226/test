@@ -1,0 +1,51 @@
+﻿  StdAfx.cpp
+  CBomb.cpp
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cbomb.cpp(44): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cbomb.cpp(45): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cbomb.cpp(82): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cbomb.cpp(87): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  CESWall.cpp
+  CGMap.cpp
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cgmap.cpp(444): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cgmap.cpp(463): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cgmap.cpp(568): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cgmap.cpp(587): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cgmap.cpp(665): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cgmap.cpp(687): warning C4018: “<”: 有符号/无符号不匹配
+  CMenu.cpp
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cmenu.cpp(43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  CMonster.cpp
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cmonster.cpp(202): warning C4305: “=”: 从“double”到“float”截断
+  CPlayer.cpp
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cplayer.cpp(361): warning C4018: “<”: 有符号/无符号不匹配
+  CProps.cpp
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cprops.cpp(31): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cprops.cpp(36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cprops.cpp(66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cprops.cpp(67): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cprops.cpp(68): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\cprops.cpp(69): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MainFrm.cpp
+  audio.cpp
+  game.cpp
+  gameDoc.cpp
+  gameView.cpp
+  gamelib.cpp
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(142): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(303): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(306): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(311): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(313): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(316): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(335): warning C4244: “return”: 从“LONG”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(341): warning C4244: “return”: 从“LONG”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(387): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(388): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(389): warning C4244: “-=”: 从“float”转换到“LONG”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(390): warning C4244: “-=”: 从“float”转换到“LONG”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(415): warning C4244: “return”: 从“LONG”转换到“float”，可能丢失数据
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\gamelib.cpp(421): warning C4244: “return”: 从“LONG”转换到“float”，可能丢失数据
+  mygame.cpp
+d:\download\109下学期\物件導向程式設計與實習\project\bombman\source\mygame.cpp(366): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  game.vcxproj -> D:\Download\109下学期\物件導向程式設計與實習\project\bombman\.\Release\game.exe
